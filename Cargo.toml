@@ -1,0 +1,12 @@
+[package]
+name = "stringer"
+version = "0.0.1"
+edition = "2021"
+description = "Brazilian-focused string manipulation library with CPF/CNPJ validation and formatting"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/antoniocarol/stringer"
+readme = "README.md"
+keywords = ["string", "brazil", "cpf", "cnpj", "formatting"]
+categories = ["text-processing", "localization"]
+
+[dependencies]
