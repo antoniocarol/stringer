@@ -1,4 +1,4 @@
-# 🇧🇷 Stringer - Brazilian String Manipulation
+# 🇧🇷 Stringfy - Brazilian String Manipulation
 
 The **Rust library** focused on Brazilian string operations with CPF/CNPJ validation and localized formatting.
 

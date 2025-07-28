@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "stringer"
+name = "stringfy"
 version = "0.0.1"
